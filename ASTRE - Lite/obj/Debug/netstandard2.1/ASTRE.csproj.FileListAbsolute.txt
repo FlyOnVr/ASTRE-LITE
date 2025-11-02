@@ -1,0 +1,742 @@
+C:\Users\utilisateur\Documents\ASTRE\obj\Debug\netstandard2.1\ASTRE.csproj.AssemblyReference.cache
+C:\Users\utilisateur\Documents\ASTRE\obj\Debug\netstandard2.1\ASTRE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\utilisateur\Documents\ASTRE\obj\Debug\netstandard2.1\ASTRE.AssemblyInfoInputs.cache
+C:\Users\utilisateur\Documents\ASTRE\obj\Debug\netstandard2.1\ASTRE.AssemblyInfo.cs
+C:\Users\utilisateur\Documents\ASTRE\obj\Debug\netstandard2.1\ASTRE.csproj.CoreCompileInputs.cache
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\ASTRE.deps.json
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\ASTRE.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\ASTRE.pdb
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\0Harmony.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\Assembly-CSharp-firstpass.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\Assembly-CSharp.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\BakeryRuntimeAssembly.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\BepInEx.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\BepInEx.Harmony.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\Mono.Security.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\Oculus.Platform.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\Oculus.VR.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\Photon3Unity3D.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\PhotonRealtime.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\PhotonUnityNetworking.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\PhotonUnityNetworking.Utilities.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\PhotonVoice.API.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\PhotonVoice.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\PhotonVoice.PUN.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\PlayFab.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\System.EnterpriseServices.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\System.ServiceModel.Internals.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\Unity.Animation.Rigging.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\Unity.Burst.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\Unity.Burst.Unsafe.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\Unity.InputSystem.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\Unity.Mathematics.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\Unity.TextMeshPro.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\Unity.Timeline.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\Unity.XR.Interaction.Toolkit.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\UnityEngine.AccessibilityModule.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\UnityEngine.AIModule.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\UnityEngine.AndroidJNIModule.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\UnityEngine.AnimationModule.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\UnityEngine.ARModule.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\UnityEngine.AssetBundleModule.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\UnityEngine.AudioModule.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\UnityEngine.ClothModule.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\UnityEngine.ClusterInputModule.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\UnityEngine.ClusterRendererModule.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\UnityEngine.CoreModule.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\UnityEngine.CrashReportingModule.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\UnityEngine.DirectorModule.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\UnityEngine.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\UnityEngine.DSPGraphModule.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\UnityEngine.GameCenterModule.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\UnityEngine.GridModule.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\UnityEngine.HotReloadModule.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\UnityEngine.ImageConversionModule.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\UnityEngine.IMGUIModule.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\UnityEngine.InputLegacyModule.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\UnityEngine.InputModule.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\UnityEngine.JSONSerializeModule.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\UnityEngine.LocalizationModule.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\UnityEngine.ParticleSystemModule.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\UnityEngine.PerformanceReportingModule.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\UnityEngine.Physics2DModule.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\UnityEngine.PhysicsModule.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\UnityEngine.ScreenCaptureModule.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\UnityEngine.SharedInternalsModule.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\UnityEngine.SpatialTracking.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\UnityEngine.SpriteMaskModule.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\UnityEngine.SpriteShapeModule.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\UnityEngine.StreamingModule.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\UnityEngine.SubstanceModule.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\UnityEngine.SubsystemsModule.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\UnityEngine.TerrainModule.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\UnityEngine.TerrainPhysicsModule.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\UnityEngine.TextRenderingModule.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\UnityEngine.TilemapModule.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\UnityEngine.TLSModule.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\UnityEngine.UI.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\UnityEngine.UIElementsModule.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\UnityEngine.UIModule.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\UnityEngine.UmbraModule.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\UnityEngine.UnityAnalyticsModule.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\UnityEngine.UnityConnectModule.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\UnityEngine.UnityTestProtocolModule.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\UnityEngine.UnityWebRequestAssetBundleModule.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\UnityEngine.UnityWebRequestAudioModule.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\UnityEngine.UnityWebRequestModule.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\UnityEngine.UnityWebRequestTextureModule.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\UnityEngine.UnityWebRequestWWWModule.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\UnityEngine.VehiclesModule.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\UnityEngine.VFXModule.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\UnityEngine.VideoModule.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\UnityEngine.VRModule.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\UnityEngine.WindModule.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\UnityEngine.XR.LegacyInputHelpers.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\UnityEngine.XRModule.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\websocket-sharp.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\Mono.Cecil.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\MonoMod.Utils.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\MonoMod.RuntimeDetour.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\Fusion.Common.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\Sirenix.OdinInspector.Attributes.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\Fusion.Runtime.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\ZString.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\AstarPathfindingProject.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\Newtonsoft.Json.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\Unity.ResourceManager.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\Unity.RenderPipelines.Core.Runtime.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\Unity.Addressables.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\ALINE.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\Unity.Splines.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\Fusion.Sockets.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\LIV.LCK_GorillaTag.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\LIV.LCK.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\Fusion.Unity.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\Fusion.Realtime.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\com.rlabrecque.steamworks.net.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\AA.Mothership.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\Unity.Cinemachine.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\Unity.XR.OpenVR.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\KID.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\nexus.nexussdk.Runtime.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\Unity.Collections.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\Unity.XR.CoreUtils.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\GT_CustomMapSupportRuntime.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\Modio.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\Unity.AI.Navigation.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\Backtrace.Unity.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\SteamVR_Actions.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\SteamVR.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\VoiceSDK.Runtime.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\Unity.RenderPipelines.Universal.Runtime.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\Unity.ProBuilder.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\endel.nativewebsocket.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\Modio.Unity.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\Unity.XR.OpenXR.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\Unity.XR.Management.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\UnityEngine.TextCoreFontEngineModule.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\UnityEngine.UnityCurlModule.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\UnityEngine.HierarchyCoreModule.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\UnityEngine.ContentLoadModule.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\UnityEngine.PropertiesModule.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\UnityEngine.UnityAnalyticsCommonModule.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\UnityEngine.MarshallingModule.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\UnityEngine.AMDModule.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\UnityEngine.InputForUIModule.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\UnityEngine.MultiplayerModule.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\UnityEngine.NVIDIAModule.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\UnityEngine.VirtualTexturingModule.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\UnityEngine.TextCoreTextEngineModule.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\Fusion.Log.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\Pathfinding.Ionic.Zip.Reduced.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\Pathfinding.ClipperLib.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\Pathfinding.Poly2Tri.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\Unity.Profiling.Core.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\NanoSockets.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\LIV.NativeAudioBridge.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\NativeGallery.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\Unity.RenderPipelines.Universal.2D.Runtime.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\Unity.Collections.LowLevel.ILSupport.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\Valve.Newtonsoft.Json.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\Meta.WitAi.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\Meta.WitAi.TTS.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\AssistantCoreSDKRuntime.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\Meta.WitAi.Lib.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\Unity.VisualEffectGraph.Runtime.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\Unity.RenderPipelines.GPUDriven.Runtime.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\Unity.RenderPipeline.Universal.ShaderLibrary.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\Unity.RenderPipelines.Core.Runtime.Shared.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\Unity.ProBuilder.Poly2Tri.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\Unity.ProBuilder.KdTree.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\Meta.VoiceSDK.Mic.Common.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\Meta.Net.endel.nativewebsocket.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\Meta.Voice.NLayer.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\Meta.Voice.Opus.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\Meta.VoiceSDK.Mic.Other.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\VoiceSDK.Telemetry.Runtime.dll
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\0Harmony.xml
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\BepInEx.xml
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\BepInEx.Harmony.xml
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\MonoMod.Utils.xml
+C:\Users\utilisateur\Documents\ASTRE\bin\Debug\netstandard2.1\MonoMod.RuntimeDetour.xml
+C:\Users\utilisateur\Documents\ASTRE\obj\Debug\netstandard2.1\ASTRE.csproj.Up2Date
+C:\Users\utilisateur\Documents\ASTRE\obj\Debug\netstandard2.1\ASTRE.dll
+C:\Users\utilisateur\Documents\ASTRE\obj\Debug\netstandard2.1\ASTRE.pdb
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\ASTRE.deps.json
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\ASTRE.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\ASTRE.pdb
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\0Harmony.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\Assembly-CSharp-firstpass.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\Assembly-CSharp.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\BakeryRuntimeAssembly.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\BepInEx.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\BepInEx.Harmony.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\Mono.Security.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\Oculus.Platform.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\Oculus.VR.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\Photon3Unity3D.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\PhotonRealtime.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\PhotonUnityNetworking.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\PhotonUnityNetworking.Utilities.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\PhotonVoice.API.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\PhotonVoice.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\PhotonVoice.PUN.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\PlayFab.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\System.EnterpriseServices.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\System.ServiceModel.Internals.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\Unity.Animation.Rigging.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\Unity.Burst.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\Unity.Burst.Unsafe.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\Unity.InputSystem.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\Unity.Mathematics.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\Unity.TextMeshPro.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\Unity.Timeline.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\Unity.XR.Interaction.Toolkit.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\UnityEngine.AccessibilityModule.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\UnityEngine.AIModule.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\UnityEngine.AndroidJNIModule.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\UnityEngine.AnimationModule.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\UnityEngine.ARModule.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\UnityEngine.AssetBundleModule.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\UnityEngine.AudioModule.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\UnityEngine.ClothModule.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\UnityEngine.ClusterInputModule.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\UnityEngine.ClusterRendererModule.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\UnityEngine.CoreModule.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\UnityEngine.CrashReportingModule.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\UnityEngine.DirectorModule.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\UnityEngine.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\UnityEngine.DSPGraphModule.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\UnityEngine.GameCenterModule.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\UnityEngine.GridModule.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\UnityEngine.HotReloadModule.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\UnityEngine.ImageConversionModule.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\UnityEngine.IMGUIModule.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\UnityEngine.InputLegacyModule.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\UnityEngine.InputModule.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\UnityEngine.JSONSerializeModule.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\UnityEngine.LocalizationModule.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\UnityEngine.ParticleSystemModule.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\UnityEngine.PerformanceReportingModule.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\UnityEngine.Physics2DModule.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\UnityEngine.PhysicsModule.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\UnityEngine.ScreenCaptureModule.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\UnityEngine.SharedInternalsModule.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\UnityEngine.SpatialTracking.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\UnityEngine.SpriteMaskModule.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\UnityEngine.SpriteShapeModule.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\UnityEngine.StreamingModule.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\UnityEngine.SubstanceModule.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\UnityEngine.SubsystemsModule.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\UnityEngine.TerrainModule.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\UnityEngine.TerrainPhysicsModule.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\UnityEngine.TextRenderingModule.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\UnityEngine.TilemapModule.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\UnityEngine.TLSModule.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\UnityEngine.UI.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\UnityEngine.UIElementsModule.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\UnityEngine.UIModule.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\UnityEngine.UmbraModule.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\UnityEngine.UnityAnalyticsModule.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\UnityEngine.UnityConnectModule.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\UnityEngine.UnityTestProtocolModule.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\UnityEngine.UnityWebRequestAssetBundleModule.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\UnityEngine.UnityWebRequestAudioModule.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\UnityEngine.UnityWebRequestModule.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\UnityEngine.UnityWebRequestTextureModule.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\UnityEngine.UnityWebRequestWWWModule.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\UnityEngine.VehiclesModule.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\UnityEngine.VFXModule.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\UnityEngine.VideoModule.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\UnityEngine.VRModule.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\UnityEngine.WindModule.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\UnityEngine.XR.LegacyInputHelpers.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\UnityEngine.XRModule.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\websocket-sharp.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\Mono.Cecil.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\MonoMod.Utils.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\MonoMod.RuntimeDetour.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\Fusion.Common.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\Sirenix.OdinInspector.Attributes.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\Fusion.Runtime.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\ZString.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\AstarPathfindingProject.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\Newtonsoft.Json.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\Unity.ResourceManager.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\Unity.RenderPipelines.Core.Runtime.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\Unity.Addressables.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\ALINE.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\Unity.Splines.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\Fusion.Sockets.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\LIV.LCK_GorillaTag.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\LIV.LCK.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\Fusion.Unity.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\Fusion.Realtime.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\com.rlabrecque.steamworks.net.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\AA.Mothership.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\Unity.Cinemachine.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\Unity.XR.OpenVR.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\KID.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\nexus.nexussdk.Runtime.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\Unity.Collections.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\Unity.XR.CoreUtils.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\GT_CustomMapSupportRuntime.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\Modio.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\Unity.AI.Navigation.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\Backtrace.Unity.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\SteamVR_Actions.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\SteamVR.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\VoiceSDK.Runtime.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\Unity.RenderPipelines.Universal.Runtime.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\Unity.ProBuilder.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\endel.nativewebsocket.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\Modio.Unity.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\Unity.XR.OpenXR.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\Unity.XR.Management.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\UnityEngine.TextCoreFontEngineModule.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\UnityEngine.UnityCurlModule.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\UnityEngine.HierarchyCoreModule.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\UnityEngine.ContentLoadModule.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\UnityEngine.PropertiesModule.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\UnityEngine.UnityAnalyticsCommonModule.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\UnityEngine.MarshallingModule.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\UnityEngine.AMDModule.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\UnityEngine.InputForUIModule.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\UnityEngine.MultiplayerModule.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\UnityEngine.NVIDIAModule.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\UnityEngine.VirtualTexturingModule.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\UnityEngine.TextCoreTextEngineModule.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\Fusion.Log.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\Pathfinding.Ionic.Zip.Reduced.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\Pathfinding.ClipperLib.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\Pathfinding.Poly2Tri.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\Unity.Profiling.Core.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\NanoSockets.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\LIV.NativeAudioBridge.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\NativeGallery.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\Unity.RenderPipelines.Universal.2D.Runtime.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\Unity.Collections.LowLevel.ILSupport.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\Valve.Newtonsoft.Json.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\Meta.WitAi.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\Meta.WitAi.TTS.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\AssistantCoreSDKRuntime.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\Meta.WitAi.Lib.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\Unity.VisualEffectGraph.Runtime.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\Unity.RenderPipelines.GPUDriven.Runtime.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\Unity.RenderPipeline.Universal.ShaderLibrary.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\Unity.RenderPipelines.Core.Runtime.Shared.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\Unity.ProBuilder.Poly2Tri.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\Unity.ProBuilder.KdTree.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\Meta.VoiceSDK.Mic.Common.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\Meta.Net.endel.nativewebsocket.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\Meta.Voice.NLayer.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\Meta.Voice.Opus.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\Meta.VoiceSDK.Mic.Other.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\VoiceSDK.Telemetry.Runtime.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\0Harmony.xml
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\BepInEx.xml
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\BepInEx.Harmony.xml
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\MonoMod.Utils.xml
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\bin\Debug\netstandard2.1\MonoMod.RuntimeDetour.xml
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\obj\Debug\netstandard2.1\ASTRE.csproj.AssemblyReference.cache
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\obj\Debug\netstandard2.1\ASTRE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\obj\Debug\netstandard2.1\ASTRE.AssemblyInfoInputs.cache
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\obj\Debug\netstandard2.1\ASTRE.AssemblyInfo.cs
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\obj\Debug\netstandard2.1\ASTRE.csproj.CoreCompileInputs.cache
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\obj\Debug\netstandard2.1\ASTRE.csproj.Up2Date
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\obj\Debug\netstandard2.1\ASTRE.dll
+C:\Users\GAMING PC\Downloads\ASTRE\ASTRE\obj\Debug\netstandard2.1\ASTRE.pdb
+C:\Users\chadl\Documents\ASTRE\obj\Debug\netstandard2.1\ASTRE.csproj.AssemblyReference.cache
+C:\Users\chadl\Documents\ASTRE\obj\Debug\netstandard2.1\ASTRE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chadl\Documents\ASTRE\obj\Debug\netstandard2.1\ASTRE.AssemblyInfoInputs.cache
+C:\Users\chadl\Documents\ASTRE\obj\Debug\netstandard2.1\ASTRE.AssemblyInfo.cs
+C:\Users\chadl\Documents\ASTRE\obj\Debug\netstandard2.1\ASTRE.csproj.CoreCompileInputs.cache
+C:\Users\chadl\Documents\ASTRE\obj\Debug\netstandard2.1\ASTRE.dll
+C:\Users\chadl\Documents\ASTRE\obj\Debug\netstandard2.1\ASTRE.pdb
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\ASTRE.deps.json
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\ASTRE.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\ASTRE.pdb
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\0Harmony.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\Assembly-CSharp-firstpass.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\Assembly-CSharp.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\BakeryRuntimeAssembly.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\BepInEx.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\BepInEx.Harmony.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\Fusion.Realtime.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\Fusion.Runtime.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\Fusion.Sockets.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\Fusion.Unity.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\Mono.Security.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\Oculus.Platform.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\Oculus.VR.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\Photon3Unity3D.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\PhotonRealtime.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\PhotonUnityNetworking.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\PhotonUnityNetworking.Utilities.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\PhotonVoice.API.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\PhotonVoice.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\PhotonVoice.PUN.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\PlayFab.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\System.EnterpriseServices.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\System.ServiceModel.Internals.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\Unity.Animation.Rigging.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\Unity.Burst.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\Unity.Burst.Unsafe.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\Unity.InputSystem.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\Unity.Mathematics.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\Unity.TextMeshPro.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\Unity.Timeline.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\Unity.XR.Interaction.Toolkit.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\UnityEngine.AccessibilityModule.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\UnityEngine.AIModule.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\UnityEngine.AndroidJNIModule.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\UnityEngine.AnimationModule.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\UnityEngine.ARModule.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\UnityEngine.AssetBundleModule.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\UnityEngine.AudioModule.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\UnityEngine.ClothModule.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\UnityEngine.ClusterInputModule.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\UnityEngine.ClusterRendererModule.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\UnityEngine.CoreModule.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\UnityEngine.CrashReportingModule.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\UnityEngine.DirectorModule.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\UnityEngine.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\UnityEngine.DSPGraphModule.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\UnityEngine.GameCenterModule.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\UnityEngine.GridModule.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\UnityEngine.HotReloadModule.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\UnityEngine.ImageConversionModule.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\UnityEngine.IMGUIModule.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\UnityEngine.InputLegacyModule.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\UnityEngine.InputModule.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\UnityEngine.JSONSerializeModule.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\UnityEngine.LocalizationModule.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\UnityEngine.ParticleSystemModule.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\UnityEngine.PerformanceReportingModule.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\UnityEngine.Physics2DModule.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\UnityEngine.PhysicsModule.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\UnityEngine.ScreenCaptureModule.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\UnityEngine.SharedInternalsModule.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\UnityEngine.SpatialTracking.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\UnityEngine.SpriteMaskModule.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\UnityEngine.SpriteShapeModule.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\UnityEngine.StreamingModule.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\UnityEngine.SubstanceModule.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\UnityEngine.SubsystemsModule.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\UnityEngine.TerrainModule.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\UnityEngine.TerrainPhysicsModule.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\UnityEngine.TextRenderingModule.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\UnityEngine.TilemapModule.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\UnityEngine.TLSModule.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\UnityEngine.UI.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\UnityEngine.UIElementsModule.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\UnityEngine.UIModule.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\UnityEngine.UmbraModule.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\UnityEngine.UnityAnalyticsModule.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\UnityEngine.UnityConnectModule.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\UnityEngine.UnityTestProtocolModule.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\UnityEngine.UnityWebRequestAssetBundleModule.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\UnityEngine.UnityWebRequestAudioModule.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\UnityEngine.UnityWebRequestModule.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\UnityEngine.UnityWebRequestTextureModule.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\UnityEngine.UnityWebRequestWWWModule.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\UnityEngine.VehiclesModule.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\UnityEngine.VFXModule.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\UnityEngine.VideoModule.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\UnityEngine.VRModule.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\UnityEngine.WindModule.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\UnityEngine.XR.LegacyInputHelpers.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\UnityEngine.XRModule.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\websocket-sharp.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\Mono.Cecil.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\MonoMod.Utils.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\MonoMod.RuntimeDetour.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\Fusion.Common.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\Sirenix.OdinInspector.Attributes.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\ZString.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\AA.Mothership.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\AstarPathfindingProject.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\Newtonsoft.Json.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\Unity.ResourceManager.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\Unity.RenderPipelines.Core.Runtime.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\Unity.Addressables.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\ALINE.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\Unity.Splines.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\LIV.LCK_GorillaTag.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\LIV.LCK.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\com.rlabrecque.steamworks.net.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\Unity.Cinemachine.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\Unity.XR.OpenVR.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\KID.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\nexus.nexussdk.Runtime.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\Unity.Localization.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\Unity.Collections.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\Unity.XR.CoreUtils.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\GT_CustomMapSupportRuntime.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\Modio.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\Unity.AI.Navigation.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\Backtrace.Unity.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\SteamVR_Actions.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\SteamVR.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\VoiceSDK.Runtime.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\Unity.RenderPipelines.Universal.Runtime.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\Unity.ProBuilder.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\endel.nativewebsocket.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\Modio.Unity.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\Fusion.Log.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\NanoSockets.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\Unity.XR.OpenXR.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\Unity.XR.Management.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\UnityEngine.TextCoreFontEngineModule.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\UnityEngine.UnityCurlModule.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\UnityEngine.HierarchyCoreModule.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\UnityEngine.ContentLoadModule.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\UnityEngine.PropertiesModule.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\UnityEngine.UnityAnalyticsCommonModule.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\UnityEngine.MarshallingModule.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\UnityEngine.AMDModule.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\UnityEngine.InputForUIModule.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\UnityEngine.MultiplayerModule.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\UnityEngine.NVIDIAModule.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\UnityEngine.VirtualTexturingModule.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\UnityEngine.TextCoreTextEngineModule.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\Pathfinding.Ionic.Zip.Reduced.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\Pathfinding.ClipperLib.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\Pathfinding.Poly2Tri.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\Unity.Profiling.Core.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\LIV.NativeAudioBridge.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\NativeGallery.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\Unity.RenderPipelines.Universal.2D.Runtime.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\Unity.Collections.LowLevel.ILSupport.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\Valve.Newtonsoft.Json.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\Meta.WitAi.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\Meta.WitAi.TTS.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\AssistantCoreSDKRuntime.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\Meta.WitAi.Lib.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\Unity.VisualEffectGraph.Runtime.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\Unity.RenderPipelines.GPUDriven.Runtime.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\Unity.RenderPipeline.Universal.ShaderLibrary.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\Unity.RenderPipelines.Core.Runtime.Shared.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\Unity.ProBuilder.Poly2Tri.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\Unity.ProBuilder.KdTree.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\Meta.VoiceSDK.Mic.Common.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\Meta.Net.endel.nativewebsocket.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\Meta.Voice.NLayer.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\Meta.Voice.Opus.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\Meta.VoiceSDK.Mic.Other.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\VoiceSDK.Telemetry.Runtime.dll
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\0Harmony.xml
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\BepInEx.xml
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\BepInEx.Harmony.xml
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\MonoMod.Utils.xml
+C:\Users\chadl\Documents\ASTRE\bin\Debug\netstandard2.1\MonoMod.RuntimeDetour.xml
+C:\Users\chadl\Documents\ASTRE\obj\Debug\netstandard2.1\ASTRE.csproj.Up2Date
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\ASTRE.deps.json
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\ASTRE.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\ASTRE.pdb
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\0Harmony.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\Assembly-CSharp-firstpass.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\Assembly-CSharp.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\BakeryRuntimeAssembly.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\BepInEx.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\BepInEx.Harmony.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\Fusion.Realtime.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\Fusion.Runtime.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\Fusion.Sockets.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\Fusion.Unity.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\Mono.Security.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\Oculus.Platform.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\Oculus.VR.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\Photon3Unity3D.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\PhotonRealtime.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\PhotonUnityNetworking.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\PhotonUnityNetworking.Utilities.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\PhotonVoice.API.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\PhotonVoice.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\PhotonVoice.PUN.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\PlayFab.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\System.EnterpriseServices.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\System.ServiceModel.Internals.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\Unity.Animation.Rigging.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\Unity.Burst.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\Unity.Burst.Unsafe.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\Unity.InputSystem.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\Unity.Mathematics.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\Unity.TextMeshPro.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\Unity.Timeline.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\Unity.XR.Interaction.Toolkit.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\UnityEngine.AccessibilityModule.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\UnityEngine.AIModule.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\UnityEngine.AndroidJNIModule.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\UnityEngine.AnimationModule.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\UnityEngine.ARModule.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\UnityEngine.AssetBundleModule.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\UnityEngine.AudioModule.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\UnityEngine.ClothModule.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\UnityEngine.ClusterInputModule.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\UnityEngine.ClusterRendererModule.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\UnityEngine.CoreModule.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\UnityEngine.CrashReportingModule.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\UnityEngine.DirectorModule.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\UnityEngine.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\UnityEngine.DSPGraphModule.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\UnityEngine.GameCenterModule.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\UnityEngine.GridModule.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\UnityEngine.HotReloadModule.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\UnityEngine.ImageConversionModule.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\UnityEngine.IMGUIModule.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\UnityEngine.InputLegacyModule.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\UnityEngine.InputModule.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\UnityEngine.JSONSerializeModule.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\UnityEngine.LocalizationModule.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\UnityEngine.ParticleSystemModule.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\UnityEngine.PerformanceReportingModule.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\UnityEngine.Physics2DModule.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\UnityEngine.PhysicsModule.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\UnityEngine.ScreenCaptureModule.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\UnityEngine.SharedInternalsModule.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\UnityEngine.SpatialTracking.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\UnityEngine.SpriteMaskModule.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\UnityEngine.SpriteShapeModule.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\UnityEngine.StreamingModule.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\UnityEngine.SubstanceModule.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\UnityEngine.SubsystemsModule.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\UnityEngine.TerrainModule.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\UnityEngine.TerrainPhysicsModule.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\UnityEngine.TextRenderingModule.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\UnityEngine.TilemapModule.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\UnityEngine.TLSModule.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\UnityEngine.UI.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\UnityEngine.UIElementsModule.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\UnityEngine.UIModule.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\UnityEngine.UmbraModule.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\UnityEngine.UnityAnalyticsModule.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\UnityEngine.UnityConnectModule.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\UnityEngine.UnityTestProtocolModule.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\UnityEngine.UnityWebRequestAssetBundleModule.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\UnityEngine.UnityWebRequestAudioModule.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\UnityEngine.UnityWebRequestModule.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\UnityEngine.UnityWebRequestTextureModule.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\UnityEngine.UnityWebRequestWWWModule.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\UnityEngine.VehiclesModule.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\UnityEngine.VFXModule.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\UnityEngine.VideoModule.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\UnityEngine.VRModule.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\UnityEngine.WindModule.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\UnityEngine.XR.LegacyInputHelpers.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\UnityEngine.XRModule.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\websocket-sharp.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\Mono.Cecil.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\MonoMod.Utils.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\MonoMod.RuntimeDetour.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\Fusion.Common.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\Sirenix.OdinInspector.Attributes.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\ZString.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\AA.Mothership.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\AstarPathfindingProject.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\Newtonsoft.Json.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\Unity.ResourceManager.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\Unity.RenderPipelines.Core.Runtime.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\Unity.Addressables.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\ALINE.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\Unity.Splines.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\LIV.LCK_GorillaTag.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\LIV.LCK.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\com.rlabrecque.steamworks.net.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\Unity.Cinemachine.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\Unity.XR.OpenVR.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\KID.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\nexus.nexussdk.Runtime.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\Unity.Localization.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\Unity.Collections.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\Unity.XR.CoreUtils.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\GT_CustomMapSupportRuntime.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\Modio.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\Unity.AI.Navigation.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\Backtrace.Unity.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\SteamVR_Actions.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\SteamVR.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\VoiceSDK.Runtime.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\Unity.RenderPipelines.Universal.Runtime.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\Unity.ProBuilder.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\endel.nativewebsocket.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\Modio.Unity.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\Fusion.Log.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\NanoSockets.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\Unity.XR.OpenXR.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\Unity.XR.Management.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\UnityEngine.TextCoreFontEngineModule.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\UnityEngine.UnityCurlModule.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\UnityEngine.HierarchyCoreModule.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\UnityEngine.ContentLoadModule.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\UnityEngine.PropertiesModule.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\UnityEngine.UnityAnalyticsCommonModule.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\UnityEngine.MarshallingModule.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\UnityEngine.AMDModule.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\UnityEngine.InputForUIModule.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\UnityEngine.MultiplayerModule.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\UnityEngine.NVIDIAModule.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\UnityEngine.VirtualTexturingModule.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\UnityEngine.TextCoreTextEngineModule.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\Pathfinding.Ionic.Zip.Reduced.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\Pathfinding.ClipperLib.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\Pathfinding.Poly2Tri.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\Unity.Profiling.Core.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\LIV.NativeAudioBridge.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\NativeGallery.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\Unity.RenderPipelines.Universal.2D.Runtime.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\Unity.Collections.LowLevel.ILSupport.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\Valve.Newtonsoft.Json.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\Meta.WitAi.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\Meta.WitAi.TTS.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\AssistantCoreSDKRuntime.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\Meta.WitAi.Lib.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\Unity.VisualEffectGraph.Runtime.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\Unity.RenderPipelines.GPUDriven.Runtime.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\Unity.RenderPipeline.Universal.ShaderLibrary.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\Unity.RenderPipelines.Core.Runtime.Shared.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\Unity.ProBuilder.Poly2Tri.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\Unity.ProBuilder.KdTree.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\Meta.VoiceSDK.Mic.Common.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\Meta.Net.endel.nativewebsocket.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\Meta.Voice.NLayer.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\Meta.Voice.Opus.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\Meta.VoiceSDK.Mic.Other.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\VoiceSDK.Telemetry.Runtime.dll
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\0Harmony.xml
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\BepInEx.xml
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\BepInEx.Harmony.xml
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\MonoMod.Utils.xml
+C:\Users\chadl\Documents\ASTRE - Lite\bin\Debug\netstandard2.1\MonoMod.RuntimeDetour.xml
+C:\Users\chadl\Documents\ASTRE - Lite\obj\Debug\netstandard2.1\ASTRE.csproj.AssemblyReference.cache
+C:\Users\chadl\Documents\ASTRE - Lite\obj\Debug\netstandard2.1\ASTRE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chadl\Documents\ASTRE - Lite\obj\Debug\netstandard2.1\ASTRE.AssemblyInfoInputs.cache
+C:\Users\chadl\Documents\ASTRE - Lite\obj\Debug\netstandard2.1\ASTRE.AssemblyInfo.cs
+C:\Users\chadl\Documents\ASTRE - Lite\obj\Debug\netstandard2.1\ASTRE.csproj.CoreCompileInputs.cache
+C:\Users\chadl\Documents\ASTRE - Lite\obj\Debug\netstandard2.1\ASTRE.csproj.Up2Date
+C:\Users\chadl\Documents\ASTRE - Lite\obj\Debug\netstandard2.1\ASTRE.dll
+C:\Users\chadl\Documents\ASTRE - Lite\obj\Debug\netstandard2.1\ASTRE.pdb

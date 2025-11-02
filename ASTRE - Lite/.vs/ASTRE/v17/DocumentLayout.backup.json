@@ -1,0 +1,369 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\chadl\\Documents\\ASTRE - Lite\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{279FA2FF-51F2-862C-965B-A027249C09D3}|ASTRE.csproj|c:\\users\\chadl\\documents\\astre - lite\\menu\\buttons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{279FA2FF-51F2-862C-965B-A027249C09D3}|ASTRE.csproj|solutionrelative:menu\\buttons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{279FA2FF-51F2-862C-965B-A027249C09D3}|ASTRE.csproj|c:\\users\\chadl\\documents\\astre - lite\\mods\\fun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{279FA2FF-51F2-862C-965B-A027249C09D3}|ASTRE.csproj|solutionrelative:mods\\fun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{279FA2FF-51F2-862C-965B-A027249C09D3}|ASTRE.csproj|c:\\users\\chadl\\documents\\astre - lite\\mods\\movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{279FA2FF-51F2-862C-965B-A027249C09D3}|ASTRE.csproj|solutionrelative:mods\\movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{279FA2FF-51F2-862C-965B-A027249C09D3}|ASTRE.csproj|c:\\users\\chadl\\documents\\astre - lite\\mods\\advantages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{279FA2FF-51F2-862C-965B-A027249C09D3}|ASTRE.csproj|solutionrelative:mods\\advantages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{279FA2FF-51F2-862C-965B-A027249C09D3}|ASTRE.csproj|c:\\users\\chadl\\documents\\astre - lite\\mods\\overpowered.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{279FA2FF-51F2-862C-965B-A027249C09D3}|ASTRE.csproj|solutionrelative:mods\\overpowered.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{279FA2FF-51F2-862C-965B-A027249C09D3}|ASTRE.csproj|c:\\users\\chadl\\documents\\astre - lite\\classes\\buttoncollider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{279FA2FF-51F2-862C-965B-A027249C09D3}|ASTRE.csproj|solutionrelative:classes\\buttoncollider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{279FA2FF-51F2-862C-965B-A027249C09D3}|ASTRE.csproj|c:\\users\\chadl\\documents\\astre - lite\\classes\\colorchanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{279FA2FF-51F2-862C-965B-A027249C09D3}|ASTRE.csproj|solutionrelative:classes\\colorchanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{279FA2FF-51F2-862C-965B-A027249C09D3}|ASTRE.csproj|c:\\users\\chadl\\documents\\astre - lite\\menu\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{279FA2FF-51F2-862C-965B-A027249C09D3}|ASTRE.csproj|solutionrelative:menu\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{279FA2FF-51F2-862C-965B-A027249C09D3}|ASTRE.csproj|c:\\users\\chadl\\documents\\astre - lite\\menu\\mods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{279FA2FF-51F2-862C-965B-A027249C09D3}|ASTRE.csproj|solutionrelative:menu\\mods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{279FA2FF-51F2-862C-965B-A027249C09D3}|ASTRE.csproj|c:\\users\\chadl\\documents\\astre - lite\\classes\\guntemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{279FA2FF-51F2-862C-965B-A027249C09D3}|ASTRE.csproj|solutionrelative:classes\\guntemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{279FA2FF-51F2-862C-965B-A027249C09D3}|ASTRE.csproj|c:\\users\\chadl\\documents\\astre - lite\\classes\\rigmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{279FA2FF-51F2-862C-965B-A027249C09D3}|ASTRE.csproj|solutionrelative:classes\\rigmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{279FA2FF-51F2-862C-965B-A027249C09D3}|ASTRE.csproj|c:\\users\\chadl\\documents\\astre - lite\\mods\\safety.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{279FA2FF-51F2-862C-965B-A027249C09D3}|ASTRE.csproj|solutionrelative:mods\\safety.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{279FA2FF-51F2-862C-965B-A027249C09D3}|ASTRE.csproj|c:\\users\\chadl\\documents\\astre - lite\\mods\\visuals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{279FA2FF-51F2-862C-965B-A027249C09D3}|ASTRE.csproj|solutionrelative:mods\\visuals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{279FA2FF-51F2-862C-965B-A027249C09D3}|ASTRE.csproj|c:\\users\\chadl\\documents\\astre - lite\\classes\\stumptext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{279FA2FF-51F2-862C-965B-A027249C09D3}|ASTRE.csproj|solutionrelative:classes\\stumptext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{279FA2FF-51F2-862C-965B-A027249C09D3}|ASTRE.csproj|c:\\users\\chadl\\documents\\astre - lite\\plugininfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{279FA2FF-51F2-862C-965B-A027249C09D3}|ASTRE.csproj|solutionrelative:plugininfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{279FA2FF-51F2-862C-965B-A027249C09D3}|ASTRE.csproj|c:\\users\\chadl\\documents\\astre - lite\\menu\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{279FA2FF-51F2-862C-965B-A027249C09D3}|ASTRE.csproj|solutionrelative:menu\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{279FA2FF-51F2-862C-965B-A027249C09D3}|ASTRE.csproj|c:\\users\\chadl\\documents\\astre - lite\\mods\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{279FA2FF-51F2-862C-965B-A027249C09D3}|ASTRE.csproj|solutionrelative:mods\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{279FA2FF-51F2-862C-965B-A027249C09D3}|ASTRE.csproj|c:\\users\\chadl\\documents\\astre - lite\\classes\\buttoninfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{279FA2FF-51F2-862C-965B-A027249C09D3}|ASTRE.csproj|solutionrelative:classes\\buttoninfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{279FA2FF-51F2-862C-965B-A027249C09D3}|ASTRE.csproj|c:\\users\\chadl\\documents\\astre - lite\\classes\\photonmanagers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{279FA2FF-51F2-862C-965B-A027249C09D3}|ASTRE.csproj|solutionrelative:classes\\photonmanagers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{279FA2FF-51F2-862C-965B-A027249C09D3}|ASTRE.csproj|c:\\users\\chadl\\documents\\astre - lite\\directory.build.props||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{279FA2FF-51F2-862C-965B-A027249C09D3}|ASTRE.csproj|solutionrelative:directory.build.props||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{279FA2FF-51F2-862C-965B-A027249C09D3}|ASTRE.csproj|c:\\users\\chadl\\documents\\astre - lite\\directory.build.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{279FA2FF-51F2-862C-965B-A027249C09D3}|ASTRE.csproj|solutionrelative:directory.build.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RigManager.cs",
+              "DocumentMoniker": "C:\\Users\\chadl\\Documents\\ASTRE - Lite\\Classes\\RigManager.cs",
+              "RelativeDocumentMoniker": "Classes\\RigManager.cs",
+              "ToolTip": "C:\\Users\\chadl\\Documents\\ASTRE - Lite\\Classes\\RigManager.cs",
+              "RelativeToolTip": "Classes\\RigManager.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAswEUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T01:22:08.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Fun.cs",
+              "DocumentMoniker": "C:\\Users\\chadl\\Documents\\ASTRE - Lite\\Mods\\Fun.cs",
+              "RelativeDocumentMoniker": "Mods\\Fun.cs",
+              "ToolTip": "C:\\Users\\chadl\\Documents\\ASTRE - Lite\\Mods\\Fun.cs*",
+              "RelativeToolTip": "Mods\\Fun.cs*",
+              "ViewState": "AgIAACwAAAAAAAAAAAAmwDoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T01:20:56.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Safety.cs",
+              "DocumentMoniker": "C:\\Users\\chadl\\Documents\\ASTRE - Lite\\Mods\\Safety.cs",
+              "RelativeDocumentMoniker": "Mods\\Safety.cs",
+              "ToolTip": "C:\\Users\\chadl\\Documents\\ASTRE - Lite\\Mods\\Safety.cs",
+              "RelativeToolTip": "Mods\\Safety.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T01:03:42.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Settings.cs",
+              "DocumentMoniker": "C:\\Users\\chadl\\Documents\\ASTRE - Lite\\Menu\\Settings.cs",
+              "RelativeDocumentMoniker": "Menu\\Settings.cs",
+              "ToolTip": "C:\\Users\\chadl\\Documents\\ASTRE - Lite\\Menu\\Settings.cs",
+              "RelativeToolTip": "Menu\\Settings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T22:28:19.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Visuals.cs",
+              "DocumentMoniker": "C:\\Users\\chadl\\Documents\\ASTRE - Lite\\Mods\\Visuals.cs",
+              "RelativeDocumentMoniker": "Mods\\Visuals.cs",
+              "ToolTip": "C:\\Users\\chadl\\Documents\\ASTRE - Lite\\Mods\\Visuals.cs",
+              "RelativeToolTip": "Mods\\Visuals.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAqwDoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T22:24:17.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Mods.cs",
+              "DocumentMoniker": "C:\\Users\\chadl\\Documents\\ASTRE - Lite\\Menu\\Mods.cs",
+              "RelativeDocumentMoniker": "Menu\\Mods.cs",
+              "ToolTip": "C:\\Users\\chadl\\Documents\\ASTRE - Lite\\Menu\\Mods.cs",
+              "RelativeToolTip": "Menu\\Mods.cs",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAtwIYAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T22:03:46.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Settings.cs",
+              "DocumentMoniker": "C:\\Users\\chadl\\Documents\\ASTRE - Lite\\Mods\\Settings.cs",
+              "RelativeDocumentMoniker": "Mods\\Settings.cs",
+              "ToolTip": "C:\\Users\\chadl\\Documents\\ASTRE - Lite\\Mods\\Settings.cs",
+              "RelativeToolTip": "Mods\\Settings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T21:59:57.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ButtonCollider.cs",
+              "DocumentMoniker": "C:\\Users\\chadl\\Documents\\ASTRE - Lite\\Classes\\ButtonCollider.cs",
+              "RelativeDocumentMoniker": "Classes\\ButtonCollider.cs",
+              "ToolTip": "C:\\Users\\chadl\\Documents\\ASTRE - Lite\\Classes\\ButtonCollider.cs",
+              "RelativeToolTip": "Classes\\ButtonCollider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T20:06:43.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ButtonInfo.cs",
+              "DocumentMoniker": "C:\\Users\\chadl\\Documents\\ASTRE - Lite\\Classes\\ButtonInfo.cs",
+              "RelativeDocumentMoniker": "Classes\\ButtonInfo.cs",
+              "ToolTip": "C:\\Users\\chadl\\Documents\\ASTRE - Lite\\Classes\\ButtonInfo.cs",
+              "RelativeToolTip": "Classes\\ButtonInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T20:06:42.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "StumpText.cs",
+              "DocumentMoniker": "C:\\Users\\chadl\\Documents\\ASTRE - Lite\\Classes\\StumpText.cs",
+              "RelativeDocumentMoniker": "Classes\\StumpText.cs",
+              "ToolTip": "C:\\Users\\chadl\\Documents\\ASTRE - Lite\\Classes\\StumpText.cs",
+              "RelativeToolTip": "Classes\\StumpText.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T20:00:57.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Main.cs",
+              "DocumentMoniker": "C:\\Users\\chadl\\Documents\\ASTRE - Lite\\Menu\\Main.cs",
+              "RelativeDocumentMoniker": "Menu\\Main.cs",
+              "ToolTip": "C:\\Users\\chadl\\Documents\\ASTRE - Lite\\Menu\\Main.cs",
+              "RelativeToolTip": "Menu\\Main.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T23:57:25.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Buttons.cs",
+              "DocumentMoniker": "C:\\Users\\chadl\\Documents\\ASTRE - Lite\\Menu\\Buttons.cs",
+              "RelativeDocumentMoniker": "Menu\\Buttons.cs",
+              "ToolTip": "C:\\Users\\chadl\\Documents\\ASTRE - Lite\\Menu\\Buttons.cs*",
+              "RelativeToolTip": "Menu\\Buttons.cs*",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAtwJMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T21:45:02.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Overpowered.cs",
+              "DocumentMoniker": "C:\\Users\\chadl\\Documents\\ASTRE - Lite\\Mods\\Overpowered.cs",
+              "RelativeDocumentMoniker": "Mods\\Overpowered.cs",
+              "ToolTip": "C:\\Users\\chadl\\Documents\\ASTRE - Lite\\Mods\\Overpowered.cs",
+              "RelativeToolTip": "Mods\\Overpowered.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T23:20:30.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Movement.cs",
+              "DocumentMoniker": "C:\\Users\\chadl\\Documents\\ASTRE - Lite\\Mods\\Movement.cs",
+              "RelativeDocumentMoniker": "Mods\\Movement.cs",
+              "ToolTip": "C:\\Users\\chadl\\Documents\\ASTRE - Lite\\Mods\\Movement.cs*",
+              "RelativeToolTip": "Mods\\Movement.cs*",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAAAGYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T23:08:20.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PluginInfo.cs",
+              "DocumentMoniker": "C:\\Users\\chadl\\Documents\\ASTRE - Lite\\PluginInfo.cs",
+              "RelativeDocumentMoniker": "PluginInfo.cs",
+              "ToolTip": "C:\\Users\\chadl\\Documents\\ASTRE - Lite\\PluginInfo.cs",
+              "RelativeToolTip": "PluginInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T00:08:25.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Directory.Build.props",
+              "DocumentMoniker": "C:\\Users\\chadl\\Documents\\ASTRE - Lite\\Directory.Build.props",
+              "RelativeDocumentMoniker": "Directory.Build.props",
+              "ToolTip": "C:\\Users\\chadl\\Documents\\ASTRE - Lite\\Directory.Build.props",
+              "RelativeToolTip": "Directory.Build.props",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-10-21T20:13:00.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ColorChanger.cs",
+              "DocumentMoniker": "C:\\Users\\chadl\\Documents\\ASTRE - Lite\\Classes\\ColorChanger.cs",
+              "RelativeDocumentMoniker": "Classes\\ColorChanger.cs",
+              "ToolTip": "C:\\Users\\chadl\\Documents\\ASTRE - Lite\\Classes\\ColorChanger.cs",
+              "RelativeToolTip": "Classes\\ColorChanger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T20:07:36.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Directory.Build.targets",
+              "DocumentMoniker": "C:\\Users\\chadl\\Documents\\ASTRE - Lite\\Directory.Build.targets",
+              "RelativeDocumentMoniker": "Directory.Build.targets",
+              "ToolTip": "C:\\Users\\chadl\\Documents\\ASTRE - Lite\\Directory.Build.targets",
+              "RelativeToolTip": "Directory.Build.targets",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-10-21T20:12:58.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PhotonManagers.cs",
+              "DocumentMoniker": "C:\\Users\\chadl\\Documents\\ASTRE - Lite\\Classes\\PhotonManagers.cs",
+              "RelativeDocumentMoniker": "Classes\\PhotonManagers.cs",
+              "ToolTip": "C:\\Users\\chadl\\Documents\\ASTRE - Lite\\Classes\\PhotonManagers.cs",
+              "RelativeToolTip": "Classes\\PhotonManagers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T23:52:26.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GunTemplate.cs",
+              "DocumentMoniker": "C:\\Users\\chadl\\Documents\\ASTRE - Lite\\Classes\\GunTemplate.cs",
+              "RelativeDocumentMoniker": "Classes\\GunTemplate.cs",
+              "ToolTip": "C:\\Users\\chadl\\Documents\\ASTRE - Lite\\Classes\\GunTemplate.cs",
+              "RelativeToolTip": "Classes\\GunTemplate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T22:13:09.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Advantages.cs",
+              "DocumentMoniker": "C:\\Users\\chadl\\Documents\\ASTRE - Lite\\Mods\\Advantages.cs",
+              "RelativeDocumentMoniker": "Mods\\Advantages.cs",
+              "ToolTip": "C:\\Users\\chadl\\Documents\\ASTRE - Lite\\Mods\\Advantages.cs*",
+              "RelativeToolTip": "Mods\\Advantages.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T22:13:00.945Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
